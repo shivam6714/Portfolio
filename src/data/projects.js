@@ -4,12 +4,13 @@ export const projects = [
     title: "EchoScribe",
     description: "EchoScribe is an AI-powered accessibility application designed for people with speech impairments. It captures spoken input, processes it intelligently, and converts it into clean, readable text, making communication easier and more accessible.",
     features: [
-      "Speech recognition",
-      "AI text cleanup",
-      "Accessibility-first design",
-      "Responsive interface"
+      "Fluid state management",
+      "Optimized server-side rendering routes",
+      "Clean frontend interface controls",
+      "Modular backend API architectures",
+      "Low latency asset serving"
     ],
-    techStack: ["React", "Node.js", "Local Storage"],
+    techStack: ["React", "Node.js", "Express.js"],
     githubUrl: "https://github.com/shivam6714/Echoscribe",
     liveUrl: "https://echoscribe-nine.vercel.app/"
   },
@@ -18,13 +19,13 @@ export const projects = [
     title: "Study Assistant",
     description: "An AI-powered learning platform that allows students to upload PDF documents and interact with them intelligently.",
     features: [
-      "PDF upload",
-      "AI conversation with PDFs",
-      "Flashcard generation",
-      "Quiz generation",
-      "Smart note generation"
+      "Interactive student productivity portal",
+      "Real-time browser session metrics",
+      "Local browser data caching",
+      "Intuitive responsive dashboard",
+      "Clean interface accessibility & fluid DOM"
     ],
-    techStack: ["React", "Node.js", "Local Storage"],
+    techStack: ["React", "JavaScript", "CSS3"],
     githubUrl: "https://github.com/shivam6714/study-assistant",
     liveUrl: "https://study-assistant-lyart.vercel.app/"
   },
@@ -33,12 +34,13 @@ export const projects = [
     title: "Spotify Clone",
     description: "A responsive Spotify-inspired music player interface built to practice frontend development, responsive layouts, and interactive components.",
     features: [
-      "Responsive design",
-      "Music player UI",
-      "Playlist layout",
-      "Interactive components"
+      "High-fidelity modern CSS layouts & flexbox",
+      "Responsive desktop UI layout replica",
+      "Native web media APIs",
+      "Custom element control event listeners",
+      "Clean vanilla JavaScript DOM manipulation"
     ],
-    techStack: ["HTML", "CSS", "JavaScript"],
+    techStack: ["HTML5", "CSS3", "JavaScript"],
     githubUrl: "https://github.com/shivam6714/Spotify-clone"
   }
 ];
