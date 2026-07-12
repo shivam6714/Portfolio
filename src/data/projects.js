@@ -38,7 +38,7 @@ export const projects = [
       "Playlist layout",
       "Interactive components"
     ],
-    techStack: ["HTML", "CSS", "JavaScript", "React"],
+    techStack: ["HTML", "CSS", "JavaScript"],
     githubUrl: "https://github.com/shivam6714/Spotify-clone"
   }
 ];
